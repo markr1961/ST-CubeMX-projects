@@ -1,5 +1,6 @@
-/AdaFruit_LCD_SD_joystick/EWARM/STM32L073RZ_NUCLEO
-/AdaFruit_LCD_SD_joystick/EWARM/settings
-/L073RZ_blinky/EWARM/STM32L073RZ_NUCLEO
-/L073RZ_blinky/EWARM/settings
+**/settings/
 *.dep
+*.bak
+/AdaFruit_LCD_SD_joystick/EWARM/STM32L073RZ_NUCLEO
+/L073RZ_blinky/EWARM/STM32L073RZ_NUCLEO
+/DMX test uart/EWARM/DMX test uart
